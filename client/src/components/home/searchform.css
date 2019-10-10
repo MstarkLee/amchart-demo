@@ -1,0 +1,27 @@
+.search-form {
+  margin: auto;
+  position: absolute;
+  top: 33%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  padding: 5em;
+  background-color: #fff;
+}
+
+.search-sugge {
+  margin: auto;
+  position: absolute;
+  top: 61%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  /* border: 1px solid #edefef; */
+  width: 76%;
+  padding: 5em;
+}
+
+.searc-link {
+  background-color: #edefef;
+  border: 1px solid #edefef;
+}
