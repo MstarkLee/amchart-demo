@@ -5,7 +5,7 @@
   "homepage": "https://yaser-alazem.github.io/movies-series-info",
   "dependencies": {
     "@amcharts/amcharts4": "^4.6.9",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
